@@ -1,0 +1,87 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="CompilerConfiguration">
+    <annotationProcessing>
+      <profile name="Maven default annotation processors profile" enabled="true">
+        <sourceOutputDir name="target/generated-sources/annotations" />
+        <sourceTestOutputDir name="target/generated-test-sources/test-annotations" />
+        <outputRelativeToContentRoot value="true" />
+        <module name="Exercise71" />
+        <module name="Exercise54" />
+        <module name="Exercise53" />
+        <module name="Exercise52" />
+        <module name="exercise41" />
+        <module name="demo" />
+        <module name="exercise2" />
+        <module name="Exercise62" />
+        <module name="Exercise61" />
+        <module name="Exercise51" />
+        <module name="basicmapping" />
+        <module name="Exercise63" />
+        <module name="exerciseskeleton" />
+        <module name="springjpahelloworld" />
+        <module name="Exercise72" />
+        <module name="Exercise73" />
+        <module name="springbootreview" />
+        <module name="exercise1" />
+        <module name="datasource" />
+        <module name="exercise3" />
+        <module name="Exercise44" />
+        <module name="Exercise43" />
+        <module name="Exercise42" />
+      </profile>
+    </annotationProcessing>
+    <bytecodeTargetLevel>
+      <module name="basicmapping" target="11" />
+      <module name="datasource" target="11" />
+      <module name="demo" target="11" />
+      <module name="exercise1" target="11" />
+      <module name="exercise2" target="11" />
+      <module name="exercise3" target="11" />
+      <module name="exercise41" target="11" />
+      <module name="Exercise42" target="11" />
+      <module name="Exercise43" target="11" />
+      <module name="Exercise44" target="11" />
+      <module name="Exercise51" target="11" />
+      <module name="Exercise52" target="11" />
+      <module name="Exercise53" target="11" />
+      <module name="Exercise54" target="11" />
+      <module name="Exercise61" target="11" />
+      <module name="Exercise62" target="11" />
+      <module name="Exercise63" target="11" />
+      <module name="Exercise71" target="11" />
+      <module name="Exercise72" target="11" />
+      <module name="Exercise73" target="11" />
+      <module name="exerciseskeleton" target="11" />
+      <module name="springbootreview" target="11" />
+      <module name="springjpahelloworld" target="11" />
+    </bytecodeTargetLevel>
+  </component>
+  <component name="JavacSettings">
+    <option name="ADDITIONAL_OPTIONS_OVERRIDE">
+      <module name="Exercise42" options="-parameters" />
+      <module name="Exercise43" options="-parameters" />
+      <module name="Exercise44" options="-parameters" />
+      <module name="Exercise51" options="-parameters" />
+      <module name="Exercise52" options="-parameters" />
+      <module name="Exercise53" options="-parameters" />
+      <module name="Exercise54" options="-parameters" />
+      <module name="Exercise61" options="-parameters" />
+      <module name="Exercise62" options="-parameters" />
+      <module name="Exercise63" options="-parameters" />
+      <module name="Exercise71" options="-parameters" />
+      <module name="Exercise72" options="-parameters" />
+      <module name="Exercise73" options="-parameters" />
+      <module name="basicmapping" options="-parameters" />
+      <module name="datasource" options="-parameters" />
+      <module name="demo" options="-parameters" />
+      <module name="exercise1" options="-parameters" />
+      <module name="exercise2" options="-parameters" />
+      <module name="exercise3" options="-parameters" />
+      <module name="exercise41" options="-parameters" />
+      <module name="exerciseskeleton" options="-parameters" />
+      <module name="springbootreview" options="-parameters" />
+      <module name="springjpahelloworld" options="-parameters" />
+    </option>
+  </component>
+</project>

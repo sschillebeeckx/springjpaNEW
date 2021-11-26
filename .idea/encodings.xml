@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="Encoding">
+    <file url="file://$PROJECT_DIR$/Ch1Springbootreview/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/Ch1Springjpahelloworld/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/Ch2Datasources/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/Ch3BasicMapping/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/Ch3CompositeKey/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/Exercise1/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/Exercise2/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/Exercise3/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/Exercise3/src/main/resources" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/Exercise41/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/Exercise42/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/Exercise43/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/Exercise44/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/Exercise51/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/Exercise52/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/Exercise53/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/Exercise54/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/Exercise61/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/Exercise62/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/Exercise63/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/Exercise71/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/Exercise72/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/Exercise73/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/Exerciseskeleton/src/main/java" charset="UTF-8" />
+  </component>
+</project>

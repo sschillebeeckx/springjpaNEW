@@ -1,0 +1,11 @@
+DROP TABLE IF EXISTS guests;
+
+CREATE TABLE guests (
+  gno INT AUTO_INCREMENT  PRIMARY KEY,
+  gname VARCHAR(50) NOT NULL,
+  gage INT
+);
+
+
+
+

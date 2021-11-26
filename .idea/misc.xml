@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="JavaScriptSettings">
+    <option name="languageLevel" value="ES6" />
+  </component>
+  <component name="MavenProjectsManager">
+    <option name="originalFiles">
+      <list>
+        <option value="$PROJECT_DIR$/Ch1Springbootreview/pom.xml" />
+        <option value="$PROJECT_DIR$/Ch1Springjpahelloworld/pom.xml" />
+        <option value="$PROJECT_DIR$/Ch2Datasources/pom.xml" />
+        <option value="$PROJECT_DIR$/Ch3BasicMapping/pom.xml" />
+        <option value="$PROJECT_DIR$/Ch3CompositeKey/pom.xml" />
+        <option value="$PROJECT_DIR$/Exercise1/pom.xml" />
+        <option value="$PROJECT_DIR$/Exercise2/pom.xml" />
+        <option value="$PROJECT_DIR$/Exercise3/pom.xml" />
+        <option value="$PROJECT_DIR$/Exercise41/pom.xml" />
+        <option value="$PROJECT_DIR$/Exercise42/pom.xml" />
+        <option value="$PROJECT_DIR$/Exercise43/pom.xml" />
+        <option value="$PROJECT_DIR$/Exercise44/pom.xml" />
+        <option value="$PROJECT_DIR$/Exercise51/pom.xml" />
+        <option value="$PROJECT_DIR$/Exercise52/pom.xml" />
+        <option value="$PROJECT_DIR$/Exercise53/pom.xml" />
+        <option value="$PROJECT_DIR$/Exercise54/pom.xml" />
+        <option value="$PROJECT_DIR$/Exercise61/pom.xml" />
+        <option value="$PROJECT_DIR$/Exerciseskeleton/pom.xml" />
+        <option value="$PROJECT_DIR$/Exercise62/pom.xml" />
+        <option value="$PROJECT_DIR$/Exercise63/pom.xml" />
+        <option value="$PROJECT_DIR$/Exercise71/pom.xml" />
+        <option value="$PROJECT_DIR$/Exercise72/pom.xml" />
+        <option value="$PROJECT_DIR$/Exercise73/pom.xml" />
+      </list>
+    </option>
+  </component>
+  <component name="ProjectRootManager" version="2" languageLevel="JDK_13" default="false" project-jdk-name="11" project-jdk-type="JavaSDK" />
+</project>

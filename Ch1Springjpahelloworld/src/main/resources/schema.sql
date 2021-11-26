@@ -1,0 +1,8 @@
+DROP TABLE IF EXISTS guest;
+
+CREATE TABLE guest (
+  id INT AUTO_INCREMENT  PRIMARY KEY,
+  name VARCHAR(50) NOT NULL,
+  age INT
+);
+

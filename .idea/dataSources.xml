@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="DataSourceManagerImpl" format="xml" multifile-model="true">
+    <data-source source="LOCAL" name="h2dbspringjpa" uuid="b097d215-4518-429d-b174-850bdea1a8e3">
+      <driver-ref>h2.unified</driver-ref>
+      <synchronize>true</synchronize>
+      <jdbc-driver>org.h2.Driver</jdbc-driver>
+      <jdbc-url>jdbc:h2:file:C:/temp/h2dbspringjpa;DB_CLOSE_ON_EXIT=FALSE;AUTO_SERVER=TRUE</jdbc-url>
+    </data-source>
+    <data-source source="LOCAL" name="ORACLE_TU00040" uuid="ec5d1412-f53c-4a82-8efd-512947f13cef">
+      <driver-ref>oracle</driver-ref>
+      <synchronize>true</synchronize>
+      <auto-commit>false</auto-commit>
+      <jdbc-driver>oracle.jdbc.OracleDriver</jdbc-driver>
+      <jdbc-url>jdbc:oracle:thin:@//delphi:1521/TSTA</jdbc-url>
+    </data-source>
+  </component>
+</project>
